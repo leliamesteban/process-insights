@@ -7,7 +7,7 @@ This project simulates a business scenario, analyzing a company's sales process 
 - Pandas for data manipulation.
 - Plotly or Matplotlib for data visualization.
 - Jupyter Notebook for documentation and running code interactively.
-- Celonis E for process mining.
+- Celonis EMS for process mining.
 - Tableau or Power BI for advanced visualizations.
 
 ## Project Structure
